@@ -1,4 +1,3 @@
-# Inspired by https://github.com/linuxserver/docker-baseimage-alpine-nginx/blob/master/Dockerfile
 FROM ghcr.io/linuxserver/kanzi
 
 LABEL org.opencontainers.image.source=https://github.com/kylhill/docker-kanzi
