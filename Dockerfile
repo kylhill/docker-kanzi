@@ -1,4 +1,4 @@
-FROM ghcr.io/linuxserver/kanzi:10.29.2020
+FROM ghcr.io/linuxserver/kanzi:latest
 
 LABEL org.opencontainers.image.title="docker-kanzi" \
       org.opencontainers.image.url="https://github.com/kylhill/docker-kanzi" \
